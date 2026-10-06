@@ -266,16 +266,6 @@ elbow-exoskeleton-hinf/
  # Financiamento
  Este trabalho foi desenvolvido com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), por meio do processo: FAPESP 2024/09583-3
 
- # Como citar
-Caso este repositório ou os materiais disponibilizados sejam utilizados em trabalhos acadêmicos, recomenda-se citar o projeto de pesquisa e o respectivo repositório.
- 
-Projeto:
-Desenvolvimento, Controle e Simulação de um Exoesqueleto Robótico para Membros Superiores com Elo Elástico em série e Controle H∞.
-FAPESP: Processo 2024/09583-3.
-
-Licença
-Consulte o arquivo LICENSE para informações sobre as condições de uso e redistribuição dos materiais disponibilizados neste repositório.
- 
 
   
   
