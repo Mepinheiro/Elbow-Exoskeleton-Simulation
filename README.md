@@ -168,18 +168,18 @@ As opções disponíveis são:
 
   A simulação é executada pela rotina main_elbow.m.
 
-  # Referência de trajetória
+# Referência de trajetória
 As simulações utilizam uma trajetória de referência variável no tempo para avaliar o desempenho de rastreamento do sistema.
 A referência é construída a partir de um sinal chirp com offset angular, permitindo avaliar o comportamento do controlador em diferentes frequências.
 
-  # Métricas de desempenho
+# Métricas de desempenho
   Durante as simulações são calculadas métricas para avaliação do desempenho do sistema, incluindo:
   - erro RMS de rastreamento;
   - erro máximo de rastreamento;
   - torque máximo do atuador.
 Essas métricas permitem comparar quantitativamente as diferentes estratégias de controle.
 
-  # Resultados
+# Resultados
   
 Os resultados disponibilizados neste repositório correspondem às simulações realizadas durante o desenvolvimento do projeto.
 
@@ -201,14 +201,14 @@ As figuras e arquivos de resultados correspondentes podem ser encontrados no dir
 
 (COLOCAR ARQUIVO - results/)
 
- # Protótipo
+# Protótipo
 O projeto também contempla o desenvolvimento de um protótipo físico do exoesqueleto.
 O modelo CAD disponibilizado em prototype/ permite visualizar a geometria do sistema desenvolvido.
 Fotos do protótipo podem ser encontradas em:
 
 (COLOCAR ARQUIVO - results/)figures/prototype/
 
- # Reprodução das simulações
+# Reprodução das simulações
 
 Para reproduzir as simulações principais:
 1. Clone ou faça o download deste repositório.
