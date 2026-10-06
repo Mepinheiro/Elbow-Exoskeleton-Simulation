@@ -1,6 +1,6 @@
 # Desenvolvimento, Controle e Simulação de um Exoesqueleto Robótico para Membros Superiores com Elo Elástico em Série e Controle H∞
 
-Repositório público associado ao projeto de pesquisa “Desenvolvimento, Controle e Simulação de um Exoesqueleto Robótico para Membros Superiores com Elo Elástico em série e Controle H∞”, financiado pela Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), processo 2024/09583-3.
+Repositório associado ao projeto de pesquisa “Desenvolvimento, Controle e Simulação de um Exoesqueleto Robótico para Membros Superiores com Elo Elástico em série e Controle H∞”, financiado pela Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), processo 2024/09583-3.
 O projeto aborda o desenvolvimento e a simulação de um exoesqueleto robótico de 1 grau de liberdade para reabilitação do movimento de flexão-extensão do cotovelo, considerando a utilização de um elo elástico em série e estratégias de controle baseadas em controle H∞.
 Este repositório disponibiliza os códigos MATLAB utilizados no projeto, os controladores desenvolvidos, dados necessários para as simulações, resultados obtidos numericamente e o modelo CAD do protótipo.
 
